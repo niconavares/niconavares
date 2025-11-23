@@ -1,45 +1,67 @@
-👋 Hola, soy Nicolás Navares
+# 👋 Hola, soy Nicolás Navares
 
-Estoy formándome como profesional de la ciberseguridad en el Bootcamp de Ciberseguridad Full Stack de KeepCoding, después de haber completado un prebootcamp intensivo de tres semanas centrado en sistemas, redes y despliegues reales.
+Estoy formándome como profesional de la ciberseguridad en el **Bootcamp de Ciberseguridad Full Stack de KeepCoding**, tras completar un prebootcamp intensivo enfocado en sistemas, redes y despliegues reales.  
+Mi enfoque es práctico: trabajar con servidores Linux, redes, contenedores, servicios web y configuraciones utilizadas en entornos reales.
 
-Mi enfoque es práctico: trabajar sobre servidores Linux, montar infraestructuras, entender cómo funcionan los servicios por dentro y desarrollar habilidades reales para entornos profesionales.
+---
 
-🔧 Tecnologías y herramientas que ya estoy utilizando
+## 🛠️ Tecnologías y herramientas que utilizo
 
-Linux (administración, terminal, servicios, procesos, permisos)
+- **Linux** (administración, permisos, servicios, procesos)
+- **Docker & Docker Compose**
+- **Git & GitHub**
+- **MySQL / MariaDB**
+- **Apache / HTTPS**
+- **VirtualHosts**
+- **SSH**
+- **OpenVPN**
+- **Virtualización (VirtualBox, VMs Linux)**
+- **Ruby, rbenv, bundler**
+- **Passenger**
+- **Zabbix**
+- **Nextcloud**
+- **Redmine**
 
-Git y GitHub
+---
 
-MySQL / MariaDB
+## 📂 Proyectos del Portfolio
 
-Docker y Docker Compose
+### 🔧 Monitorización y sistemas
+- **Zabbix + MySQL con Docker**  
+  👉 https://github.com/niconavares/zabbix-docker  
 
-Apache + HTTPS (Let’s Encrypt, DuckDNS)
+- **Nextcloud con Docker**  
+  👉 https://github.com/niconavares/nextcloud-docker  
 
-Virtualización (VirtualBox, máquinas virtuales Linux)
+### 🌐 Servidores y seguridad
+- **Servidor Apache + HTTPS + DuckDNS**  
+  👉 https://github.com/niconavares/apache-https-duckdns  
 
-SSH
+- **Servidor OpenVPN (CA, certificados y clientes)**  
+  👉 https://github.com/niconavares/openvpn-server  
 
-OpenVPN
+### 💼 Despliegues avanzados
+- **Redmine instalado manualmente en Ubuntu (Ruby, rbenv, Passenger)**  
+  👉 https://github.com/niconavares/redmine-manual-install  
 
-Ruby, rbenv, bundler
+---
 
-Monitorización con Zabbix
+## 🎯 Objetivo profesional
 
-Plataformas como Nextcloud y Redmine
+Mi objetivo es incorporarme al sector de la ciberseguridad en un rol **junior**, aportando mis conocimientos en sistemas, redes y seguridad.  
+Estoy especialmente interesado en posiciones como:
 
-📂 Portfolio en construcción
+- **Analista SOC / Analista de ciberseguridad junior**
+- **Técnico de ciberseguridad**
+- **Técnico de sistemas orientado a seguridad**
+- **Pentester junior** o roles relacionados con auditoría técnica
 
-Estoy creando repositorios con los proyectos del prebootcamp y del bootcamp, documentando configuraciones reales y despliegues completos.
+Busco seguir creciendo en un entorno profesional donde pueda aplicar lo que ya sé y evolucionar en áreas como hardening, monitorización, respuesta a incidentes, análisis de tráfico, auditoría y despliegue seguro de servicios.
 
-Proyectos ya trabajados:
-• Zabbix + MySQL con Docker
-• Nextcloud con Docker
-• Servidor Apache + HTTPS con dominio DuckDNS
-• Servidor OpenVPN con clientes Windows y móvil
-• Redmine instalado desde cero (Ruby + Passenger)
-• Ejercicios de Linux, servicios y administración del sistema
 
-🎯 Objetivo profesional
+---
 
-Desarrollarme como técnico de ciberseguridad especializado en sistemas y redes, con foco en la puesta en marcha, administración y seguridad de infraestructuras reales.
+## 📫 Contacto
+
+- **LinkedIn:** https://www.linkedin.com/in/nicol%C3%A1s-navares-s%C3%A1nchez-a4610a46/  
+- **GitHub:** https://github.com/niconavares  
