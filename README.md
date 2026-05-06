@@ -133,6 +133,7 @@ Mi enfoque combina **Blue Team / SOC como prioridad** con experiencia ofensiva q
 | | |
 |-|-|
 | **Bootcamp Full Stack Cybersecurity** | KeepCoding · Google Campus · 2024–2026 *(en curso)* |
+| **IBM Cybersecurity Analyst Professional Certificate** | IBM / Coursera · 2024 |
 | **Google Cybersecurity Professional Certificate** | Coursera · 260h · 2023 |
 | **Gestión de la Seguridad Informática en la Empresa** | Moba Skill Training · 100h · 2023 |
 | **Introduction to Cybersecurity** | Cisco Networking Academy · 2023 |
