@@ -87,9 +87,9 @@ Mi enfoque combina **Blue Team / SOC como prioridad** con experiencia ofensiva q
 |----------|-------------|-------|
 | [**VANTAGE**](https://github.com/niconavares/vantage) | Plataforma de auditoría de redes con escaneo (nmap, nuclei, masscan), análisis de vulnerabilidades por IA y generación de informes PDF profesionales para clientes | Django · Vue 3 · Celery · Redis · Claude AI · WeasyPrint |
 | [**VulnES**](https://github.com/niconavares/vulnes) | Agregador de CVEs críticos en español con análisis automático por LLM local. Self-hosted a 0€/mes con Cloudflare Tunnel | Next.js 15 · Python · Ollama · Supabase · Docker |
-| [**AuditPro**](https://github.com/niconavares/AuditPro) | Herramienta de auditoría web orientada a PYMEs. Más de 100 checks automatizados en 7 categorías (SEO, seguridad, accesibilidad...) | React · Python · Docker |
+| [**AuditPro**](https://github.com/niconavares/AuditPro) | Herramienta de auditoría web orientada a PYMEs. 65+ checks automatizados de SEO, rendimiento, seguridad y redes sociales | Node.js · Express · Vite · Docker |
 | [**Recon Dashboard**](https://github.com/niconavares/recon-dashboard) | Pipeline de reconocimiento automatizado para Bug Bounty: 20+ herramientas encadenadas (subfinder, amass, nuclei, ffuf, nmap, masscan...) + dashboard web para gestionar campañas | Bash · Streamlit · Docker |
-| [**Portfolio**](https://github.com/niconavares/portfolio) | Portfolio personal con diseño editorial oscuro, animaciones y contadores de estadísticas | React 18 · Framer Motion · Tailwind CSS |
+| [**Portfolio**](https://github.com/niconavares/web-portfolio) | Portfolio personal con diseño editorial oscuro, animaciones y contadores de estadísticas | React 18 · Framer Motion · Tailwind CSS |
 
 ---
 
