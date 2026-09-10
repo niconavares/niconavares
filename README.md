@@ -4,10 +4,10 @@
 
 ### Ingeniería de Seguridad · Blue Team / SOC · Red Team
 
-[![Disponible](https://img.shields.io/badge/Disponible%20para%20contrataci%C3%B3n-Junior%20SOC%20%7C%20Blue%20Team-22c55e?style=flat-square&logoColor=white)](mailto:njnavares@gmail.com)
+[![Disponible](https://img.shields.io/badge/Disponible%20para%20contrataci%C3%B3n-Junior%20SOC%20%7C%20Blue%20Team-22c55e?style=flat-square&logoColor=white)](mailto:njnavares@protonmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nicol%C3%A1s%20Navares-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicol%C3%A1s-navares-s%C3%A1nchez-a4610a46/)
-[![Email](https://img.shields.io/badge/njnavares@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:njnavares@gmail.com)
-[![Ubicación](https://img.shields.io/badge/Tenerife%2C%20España-Remoto%20%7C%20Presencial-64748b?style=flat-square)](mailto:njnavares@gmail.com)
+[![Email](https://img.shields.io/badge/njnavares@protonmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:njnavares@protonmail.com)
+[![Ubicación](https://img.shields.io/badge/Tenerife%2C%20España-Remoto%20%7C%20Presencial-64748b?style=flat-square)](mailto:njnavares@protonmail.com)
 
 </div>
 
@@ -15,7 +15,7 @@
 
 ## Sobre mí
 
-Profesional IT con **+18 años de experiencia real** en infraestructura tecnológica (K-tuin, Worten, MediaMarkt, Samsung), especializado en ciberseguridad ofensiva y defensiva a través del **Bootcamp Full Stack Cybersecurity de KeepCoding (Edición XI, 73% completado)**.
+Profesional IT con **+18 años de experiencia real** en infraestructura tecnológica (K-tuin, Worten, MediaMarkt, Samsung), especializado en ciberseguridad ofensiva y defensiva a través del **Bootcamp Full Stack Cybersecurity de KeepCoding (Edición XI, completado)**.
 
 Mi diferencial no es el bootcamp. Es el **home lab en producción** sobre Intel NUC donde diseño, desarrollo y despliego mis propias herramientas de seguridad de extremo a extremo —sin guías, sin plantillas. Aprendizaje autónomo, rigor técnico y comprensión real de cómo funcionan las cosas por dentro.
 
@@ -79,6 +79,16 @@ Mi enfoque combina **Blue Team / SOC como prioridad** con experiencia ofensiva q
 
 ---
 
+## 🍯 Proyecto Destacado — SOCEmpire
+
+**Honeypot T-Pot desplegado en Google Cloud: +1.000.000 de ataques reales capturados y analizados en 16 días.**
+
+Despliegue de un honeypot multi-servicio, análisis forense de malware (Redtail/XMRig), mapeo MITRE ATT&CK, detección de tráfico Cobalt Strike y OSINT de atacantes. Proyecto final del Bootcamp KeepCoding.
+
+**[→ Ver el análisis completo](https://github.com/niconavares/tpot-honeypot-analysis)**
+
+---
+
 ## Proyectos propios — Home Lab
 
 > Herramientas de seguridad diseñadas, desarrolladas y desplegadas en producción sobre Intel NUC.
@@ -132,7 +142,7 @@ Mi enfoque combina **Blue Team / SOC como prioridad** con experiencia ofensiva q
 
 | | |
 |-|-|
-| **Bootcamp Full Stack Cybersecurity** | KeepCoding · Google Campus · 2024–2026 *(en curso)* |
+| **Bootcamp Full Stack Cybersecurity** | KeepCoding · Google Campus · 2025–2026 |
 | **IBM Cybersecurity Analyst Professional Certificate** | IBM / Coursera · 2024 |
 | **Google Cybersecurity Professional Certificate** | Coursera · 260h · 2023 |
 | **Gestión de la Seguridad Informática en la Empresa** | Moba Skill Training · 100h · 2023 |
@@ -148,7 +158,7 @@ Mi enfoque combina **Blue Team / SOC como prioridad** con experiencia ofensiva q
 
 Disponible para remoto · turnos 24/7 · incorporación inmediata
 
-[![Email](https://img.shields.io/badge/Escríbeme-njnavares%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:njnavares@gmail.com)
+[![Email](https://img.shields.io/badge/Escríbeme-njnavares%40protonmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:njnavares@protonmail.com)
 [![LinkedIn](https://img.shields.io/badge/Conéctate-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicol%C3%A1s-navares-s%C3%A1nchez-a4610a46/)
 
 </div>
