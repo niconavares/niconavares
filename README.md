@@ -2,7 +2,7 @@
 
 # Nicolás Navares Sánchez
 
-### Ingeniería de Seguridad · Blue Team / SOC · Red Team
+### Blue Team / SOC · Ciberseguridad
 
 [![Disponible](https://img.shields.io/badge/Disponible%20para%20contrataci%C3%B3n-Junior%20SOC%20%7C%20Blue%20Team-22c55e?style=flat-square&logoColor=white)](mailto:njnavares@protonmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nicol%C3%A1s%20Navares-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicol%C3%A1s-navares-s%C3%A1nchez-a4610a46/)
@@ -15,11 +15,11 @@
 
 ## Sobre mí
 
-Profesional IT con **+18 años de experiencia real** en infraestructura tecnológica (K-tuin, Worten, MediaMarkt, Samsung), especializado en ciberseguridad ofensiva y defensiva a través del **Bootcamp Full Stack Cybersecurity de KeepCoding (Edición XI, completado)**.
+Llevo **+18 años trabajando en tecnología** (K-tuin, Worten, MediaMarkt, Samsung) y en 2025 di el salto a la ciberseguridad completando el **Bootcamp Full Stack Cybersecurity de KeepCoding (Edición XI)**.
 
-Mi diferencial no es el bootcamp. Es el **home lab en producción** sobre Intel NUC donde diseño, desarrollo y despliego mis propias herramientas de seguridad de extremo a extremo —sin guías, sin plantillas. Aprendizaje autónomo, rigor técnico y comprensión real de cómo funcionan las cosas por dentro.
+Lo que más me representa no es el bootcamp, sino mi **home lab**: un Intel NUC donde monto y pruebo mis propias herramientas de seguridad de principio a fin, sin depender de tutoriales cerrados. Me gusta entender cómo funcionan las cosas por dentro, no solo que funcionen.
 
-Mi enfoque combina **Blue Team / SOC como prioridad** con experiencia ofensiva que aporta visión completa del ciclo ataque-defensa.
+También he tocado el lado ofensivo (Red Team, pentesting) porque entender cómo piensa un atacante ayuda a defender mejor. Pero mi objetivo está claro: quiero especializarme en **Blue Team / SOC**.
 
 ---
 
